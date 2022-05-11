@@ -1,7 +1,6 @@
 <h1>🍿CineRoxy Api🍿</h1>
 <br></br>
  
- <h2>!!O projeto precisa de algumas atualizações Básicas com objetivo de resolver bugs!!</h2>
  
 
 ## 🎞Objetivos
